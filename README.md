@@ -1,5 +1,5 @@
 # ctrl-alt-play
-![hola](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarkovate.com%2Fblog%2Fai-in-gaming%2F&psig=AOvVaw0NwQYiC3-UPyjsXFAiarg_&ust=1733874222549000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC9q_rum4oDFQAAAAAdAAAAABAJ).  
+![Banner IA](https://github.com/user-attachments/assets/43a6f532-f822-43e8-a2f0-38e8b8739f33)  
 Autores: Camilo Andrés Molina Patiño, Nery Karolina Aponte Barajas, Mateo Salazar Serrano.
 
 **Objetivo**: Nuestro proyecto busca entrenar una IA la cual nos ayude a hacer una estimación sobre cuanto tiempo le dedican a jugar videojuegos las personas.  
