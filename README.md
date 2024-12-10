@@ -1,5 +1,5 @@
 # ctrl-alt-play
-![Banner IA](https://github.com/user-attachments/assets/43a6f532-f822-43e8-a2f0-38e8b8739f33)  
+![uoooo](https://github.com/user-attachments/assets/db9dc957-f6b3-4b38-b263-44b8fe223869)  
 Autores: Camilo Andrés Molina Patiño, Nery Karolina Aponte Barajas, Mateo Salazar Serrano.
 
 **Objetivo**: Nuestro proyecto busca entrenar una IA la cual nos ayude a hacer una estimación sobre cuanto tiempo le dedican a jugar videojuegos las personas.  
